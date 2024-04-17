@@ -8,15 +8,15 @@ Welcome to the Front-end engineer test assignment! This project is developed for
 The goal of this assignment was to familiarize with working at Tuum and using the technologies company uses on a daily basis. The submission should be developed in a manner that is "production-ready," meaning that any unused code is removed and any existing code is implemented and optimized to the best of the candidates' knowledge
 
 # Technologies Used
-•React (JavaScript)
-•Tailwind CSS
+1. React (JavaScript)
+2. Tailwind CSS
 
 # Getting Started
 To run this project, ensure you have the following installed:
 
-•Visual Studio Code (recommended). You can download it here https://code.visualstudio.com/download
-•Node.js and npm: Make sure you have Node.js installed on your machine. You can download it https://nodejs.org/en
-•Tailwind CSS. Installation guidance https://tailwindcss.com/docs/installation
+1. Visual Studio Code (recommended). You can download it here https://code.visualstudio.com/download
+2. Node.js and npm: Make sure you have Node.js installed on your machine. You can download it https://nodejs.org/en
+3. Tailwind CSS. Installation guidance https://tailwindcss.com/docs/installation
 
 
 # Installation
