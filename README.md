@@ -4,14 +4,14 @@
 
 Welcome to the Front-end engineer test assignment! This project is developed for Tuum's summer internship and includes a React application that displays a dummy contact form which is visually identical to the "Contact us" form located at tuum.com 
 
-#Description
+# Description
 The goal of this assignment was to familiarize with working at Tuum and using the technologies company uses on a daily basis. The submission should be developed in a manner that is "production-ready," meaning that any unused code is removed and any existing code is implemented and optimized to the best of the candidates' knowledge
 
-#Technologies Used
+# Technologies Used
 •React (JavaScript)
 •Tailwind CSS
 
-#Getting Started
+# Getting Started
 To run this project, ensure you have the following installed:
 
 •Visual Studio Code (recommended). You can download it here https://code.visualstudio.com/download
@@ -19,7 +19,7 @@ To run this project, ensure you have the following installed:
 •Tailwind CSS. Installation guidance https://tailwindcss.com/docs/installation
 
 
-#Installation
+# Installation
 1. Clone this repository to your local machine:
 git clone https://github.com/K444RU/my-tuum-front-end-assignment.git
 
@@ -28,7 +28,7 @@ git clone https://github.com/K444RU/my-tuum-front-end-assignment.git
 3. Install dependencies:
 npm install
 
-#Usage
+# Usage
 1. Start the development server:
 npm start
 
