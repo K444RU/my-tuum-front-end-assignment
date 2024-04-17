@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "./App.css";
+import "./App.css";
 
 export default function App() {
   const [isFirstNameTouched, setIsFirstNameTouched] = useState(false);
