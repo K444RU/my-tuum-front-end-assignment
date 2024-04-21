@@ -43,7 +43,7 @@ npm start
 
 3. Unused Code: There may be unused code or dependencies that contribute to the bundle size but are not necessary for the functionality of the application.
 
-## Optimizations to consider:
+# Optimizations to consider:
 
 1. Purge Unused CSS: Tailwind CSS offers a feature called PurgeCSS, which removes unused CSS classes from the final bundle. This could have significantly reduce the size of the CSS file.
 2. Code Splitting: Utilize code splitting to split the bundle into smaller chunks, loading only the necessary code for each route or component asynchronously.
